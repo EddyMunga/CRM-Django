@@ -1,0 +1,18 @@
+{
+    "emmet.includeLanguages": {
+        "django-html": "html",
+        "jinja-html": "html",
+        "django-css": "css"
+    },
+
+    "[django-html]": {
+        "editor.defaultFormatter": "HookyQR.beautify",
+        "editor.quickSuggestions": {
+            "comments": true,
+            "other": true,
+            "strings": true
+        },
+        "editor.tabSize": 4,
+        "editor.wordWrap": "on"
+    }
+}
